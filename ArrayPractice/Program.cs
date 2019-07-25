@@ -21,7 +21,7 @@ namespace ArrayPractice {
 
             int total = 0;
             int index = 0;
-            while (index < 100) ;
+            while (index < 100);
 
             total = total / frames[index];
             index = index + 1;
